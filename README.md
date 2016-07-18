@@ -7,6 +7,7 @@ You can also ignore an item, for example, if you are farming an item and you wan
 
 The main objective is to save you time when interacting with merchants.
 
+Video: https://www.youtube.com/watch?v=eqJzjPlk_qs
 
 ###How to use it:
 ---
