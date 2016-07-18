@@ -1,0 +1,9 @@
+## Interface: 40300
+## Title: IntegralBirth
+## Author: Lanrutcon
+## Notes: A simple "Selling List" that is created whenever the player loots something.
+## Version: 1.0
+## SavedVariables: IntegralBirthSV
+## DefaultState: enabled
+
+IntegralBirth.lua
